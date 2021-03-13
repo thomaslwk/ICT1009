@@ -1,0 +1,32 @@
+Project Description Document 
+Team: 63
+
+Project Description
+  - Co-op Adventure Puzzle game. 
+  - 2 Players are required to use keyboard controls to navigate the game, collecting points (rewards) while avoiding contact with enemies. 
+  - Both players will have different tasks to complete during each level. 
+  - Both players are required to complete the given task in order to proceed to the next level. 
+  - In the event, one player is out of lives, the remaining player will be given a new task to complete in order to revive his/her teammate. Failure to complete the task results in gameover. 
+
+Tool Name
+  - Bit Bandit
+
+MoSCoW Matrix 
+
+Must have (critical to current timeline in order for success)
+  - GUI 
+  - Multiplayer capabilities (2 players) 
+  - Multiple different enemies 
+  - Player lives 
+  - Player to collect all points required to move on to the next level/round
+
+Should have (important but not necessary for delivery within the timeframe) 
+  - Allow player to earn bonus live through extra in-game task 
+  - Different game modes 
+
+Could have (desirable but not necessary and could improve the user experience) 
+  - Power-up ability for player 
+
+Would have (possible implementations but unlikely to be included. - less likely than could) 
+  - Advanced AI logic for each enemy 
+
