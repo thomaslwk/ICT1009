@@ -1,0 +1,12 @@
+# Begone # 
+.DS_Store
+.DS_STORE?
+._*
+# Paths (eclipse/intellij) # 
+.classpath
+.project
+.settings
+.idea
+.metadata
+*.iml
+*.ipr
