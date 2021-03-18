@@ -10,7 +10,7 @@ void Car::turnIgnitionOff(){
 }
 void Car::setSpeed(int carspeed){
     //Check limit 70
-    if(carspeed > 70) {
+    if(carspeed > 65) {
         speed = 65;
     }
     else {
@@ -60,7 +60,12 @@ class RaceCar: public virtual Car {
 };
 void RaceCar::setSpeed(int carspeed){
     //--Overwrite car setspeed.
-    this->speed = carspeed;
+    if(carspeed > 200){
+       this->speed = 200;
+    }
+    else {
+        this->speed = carspeed;
+    }
 }
 
 //Mutant car covertible + racecar 
