@@ -115,22 +115,22 @@ int main() {
     ConvertibleRaceCar aCar;
 
     std::cout << "Car set to 30mph:" << std::endl;
-    aCar.Convertible::setSpeed(30);
-    aCar.Convertible::turnIgnitionOn();
-    aCar.Convertible::putTopUp();
-    aCar.Convertible::showCar();
+    aCar.ConvertibleRaceCar::setSpeed(30);
+    aCar.ConvertibleRaceCar::turnIgnitionOn();
+    aCar.ConvertibleRaceCar::putTopUp();
+    aCar.ConvertibleRaceCar::showCar();
 
     std::cout << std::endl << "Car set to 80mph with top down: " << std::endl;
-    aCar.RaceCar::setSpeed(80);
-    aCar.Convertible::turnIgnitionOn();
-    aCar.Convertible::putTopDown();
-    aCar.Convertible::showCar();
+    aCar.ConvertibleRaceCar::setSpeed(80);
+    aCar.ConvertibleRaceCar::turnIgnitionOn();
+    aCar.ConvertibleRaceCar::putTopDown();
+    aCar.ConvertibleRaceCar::showCar();
 
     std::cout << std::endl << "Car set to 250mph with top up: " << std::endl;
-    aCar.RaceCar::setSpeed(250);
-    aCar.Convertible::turnIgnitionOn();
-    aCar.Convertible::putTopUp();
-    aCar.Convertible::showCar();
+    aCar.ConvertibleRaceCar::setSpeed(250);
+    aCar.ConvertibleRaceCar::turnIgnitionOn();
+    aCar.ConvertibleRaceCar::putTopUp();
+    aCar.ConvertibleRaceCar::showCar();
 
     return 0;
 }

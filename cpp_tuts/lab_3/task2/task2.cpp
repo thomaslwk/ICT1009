@@ -34,7 +34,7 @@ int main() {
     std::cout << pk3.Package::getSenderAddr() << std::endl;
     std::cout << "Recipient: " << pk3.getReceiverName() << std::endl;
     std::cout << pk3.getReceiverAddr() << std::endl;
-    std::cout << "Cost: " << pk3.getCost() << std::endl;
+    std::cout << "Cost: " << pk3.getCost();
     std::cout << std::endl;
     
     return 0;
