@@ -3,7 +3,7 @@
 #pragma once 
 #include <iostream>
 
-class OvernightPackage: public Package {
+class OvernightPackage: public virtual Package {
     private: 
         double feePerKg; 
     public: 

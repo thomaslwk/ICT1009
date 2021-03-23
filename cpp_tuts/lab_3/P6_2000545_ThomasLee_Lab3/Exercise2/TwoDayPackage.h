@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-class TwoDayPackage: public Package{
+class TwoDayPackage: public virtual Package{
     protected: 
         double flatFee; 
     public:

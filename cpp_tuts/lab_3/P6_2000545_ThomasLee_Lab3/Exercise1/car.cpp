@@ -99,17 +99,17 @@ int main() {
     // myCar.showCar();
 
     //-- Third Test case 
-    Car aCar1;
-    RaceCar aRaceCar;
-    aCar1.turnIgnitionOn(); 
-    aCar1.setSpeed(100);
-    std::cout << "A car at 100mph: "; 
-    aCar1.showCar();
+    // Car aCar;
+    // RaceCar aRaceCar;
+    // aCar.turnIgnitionOn(); 
+    // aCar.setSpeed(100);
+    // std::cout << "A car at 100mph: "; 
+    // aCar.showCar();
 
-    aRaceCar.turnIgnitionOn();
-    aRaceCar.setSpeed(100);
-    std::cout << "A race car at 100mph: ";
-    aRaceCar.showCar();
+    // aRaceCar.turnIgnitionOn();
+    // aRaceCar.setSpeed(100);
+    // std::cout << "A race car at 100mph: ";
+    // aRaceCar.showCar();
 
     //-- Fourth Test case 
     ConvertibleRaceCar aCar;
