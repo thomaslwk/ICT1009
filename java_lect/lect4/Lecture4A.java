@@ -13,8 +13,6 @@ class Car extends Vehicle{
 		System.out.println("Car Honking");
 	}
 }
-
-
 public class Lecture4A {
 
 }

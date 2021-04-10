@@ -23,8 +23,7 @@ class PlainBicycle extends Cycle{
 	public void setDetails(String nm,String bd) {
 		name = nm;
 		brand = bd;
-	}
-	
+	}	
 	public void display() {
 		System.out.println("Name is:"+ name);
 		System.out.println("Brand is:"+ brand);

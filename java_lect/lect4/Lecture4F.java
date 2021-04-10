@@ -1,5 +1,6 @@
-/* an interface can have zero attributes or variables
- it can only have public, static and final variables
+/* 
+an interface can have zero attributes or variables
+it can only have public, static and final variables
 it can only have public methods and all the methods are without a body i.e abstract
 methods can include exception specifications
 import java.io.*;public void setRadius(double radius) throws IOException

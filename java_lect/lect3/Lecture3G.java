@@ -1,4 +1,5 @@
-public class Polymorphism3B {
+public class Lecture3G {
+
 	public static void activity() {
 		System.out.println("Stand");
 	}
@@ -9,6 +10,7 @@ public class Polymorphism3B {
 		else if(type.equals("bowl"))
 			System.out.println("Sit");
 		else 
+			System.out.println(type);
 			System.out.println("HELP");
 	}
 	
@@ -20,14 +22,14 @@ public class Polymorphism3B {
 	
 	
 	public static void main(String args[]) {
-		char chromosome = 'F';
+		char chromosome = 'a';
 		int n = 2;
 		String act = "bowl";
 		
-		switch(chromosome) {
+		switch(n) {
 		case 'F':activity(act);
 				break;
-		case 'M':activity();
+		case 'M':activity(n);
 				break;
 		default:activity(n);
 				break;

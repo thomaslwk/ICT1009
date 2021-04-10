@@ -3,6 +3,10 @@ class Person{
 	String name;
 	int weight;
 	String address;
+	//Test default constructor 
+	public Person(){
+		System.out.println("I am person");
+	}
 	public void hello()
 	{
 		System.out.println("I am person");
@@ -10,7 +14,6 @@ class Person{
 }
 
 // inherited class
-
 class Student extends Person{
 	String rollNo;
 	public int marks;
@@ -27,7 +30,7 @@ every student is a person but every person is not a student
  Student s = new Person()
 A variable of a supertype can refer to a subtype object 
 */
-public class Polymorphism3A {
+public class Lecture3F {
 	public static void main(String args[])
 	{
 		Person a = new Student();	
