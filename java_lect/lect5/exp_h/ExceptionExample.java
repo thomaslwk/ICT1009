@@ -6,9 +6,9 @@ public class ExceptionExample {
 		//throw new IOException();//RuntimeException();//unchecked
 	}
 	
-	public static void main(String args[]) {
+	public static void main(String args[]){
 		String [] names = {"And","The","All"};
 		System.out.println(names[2]);
-		//throw new RuntimeException();
+		throw new RuntimeException();
 	}
 }
