@@ -10,11 +10,11 @@ private:
 public:
     Vehicle(string, int);
     // aim for prefix
-    Vehicle& operator++();
+    Vehicle& operator+();
     Vehicle& operator--();
     // aim for postfix 
     // int: a dummy argument; int unused but provides a different prototype
-    Vehicle operator++(int);
+    Vehicle& operator++(int);
     string operator==(Vehicle);
 };
 
@@ -28,7 +28,7 @@ ostream& operator<<(ostream& out, const Vehicle& car) {
     return out;
 }
 
-Vehicle& Vehicle::operator++() {
+Vehicle& Vehicle::operator+() {
     ++numParked; // inc based numParked
     // cout << this->numParked;
     return *this;
@@ -41,11 +41,12 @@ Vehicle& Vehicle::operator--() {
 
 // postfix increment: evaluated before the mathematical operation
 // so store the non-incremented value in a temporary variable first
-Vehicle Vehicle::operator++(int) {
-    Vehicle tmp = *this;
+Vehicle& Vehicle::operator++(int) {
+    // Vehicle tmp = *this;
     ++numParked;
     // cout << tmp->numParked;
-    return tmp;
+    // return tmp;
+    return *this;
 }
 
 string Vehicle::operator==(Vehicle car) {
@@ -61,8 +62,8 @@ int main() {
     
     cout << (modelA == modelB) << endl; // false numbers are different.
     cout << modelA; // sedan 12
-    cout << ++modelA; // 12? 13? left -> right
-    cout << modelA++; // 13? 14?
+    cout << +modelA; // 12? 13? left -> right
+    cout << +modelA++; // 13? 14?
     cout << modelA; // 14
     cout << (modelA == modelB) << endl; // " numbers are the same.";
 
