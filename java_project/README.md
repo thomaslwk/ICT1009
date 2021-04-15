@@ -23,9 +23,9 @@ Players start on either side of the map, bullets then spawn in bouncing around t
 Project compiled on openjdk 15.0.1
 
 ```
-git clone https://github.com/sgtechICT1009/ict1009-team63-2021.git
+git clone https://github.com/thomaslwk/ICT1009.git
 
-cd ict1009-team63-2021
+cd java_project
 
 java -jar bullet_hell.jar
 ```
