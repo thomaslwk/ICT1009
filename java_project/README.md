@@ -2,7 +2,7 @@
 # Bullet Hell Project - Team 63
 
 ICT1009 OOP Game Project in Java.\
-[Project Documentation](https://github.com/sgtechICT1009/ict1009-team63-2021/blob/main/docs/Projectdes.md)
+[Project Documentation](https://github.com/thomaslwk/ICT1009/blob/main/java_project/docs/Projectdes.md)
 
 ## Game Description: 
 The game follows the classic bullet hell game genre where the goal is to evade the oncoming waves of different enemy bullets. The winner is the player that survives the longest within 60 seconds. 
@@ -31,9 +31,9 @@ java -jar bullet_hell.jar
 ```
 
 ## Members 
-* Thomas Lee Wai Kwong - 2000545
-* Nadzimushsyahar Bin Mohd Halel - 2001466 
-* Zuriel Nicholas Ching Fei - 2001555
-* Crystal Choo Jia Xian - 2002342
-* Aloysius Yeo Wei Jie - 2002452
-* Ng Jing Yong - 2002478
+* Thomas Lee Wai Kwong 
+* Nadzimushsyahar Bin Mohd Halel 
+* Zuriel Nicholas Ching Fei 
+* Crystal Choo Jia Xian 
+* Aloysius Yeo Wei Jie 
+* Ng Jing Yong 
