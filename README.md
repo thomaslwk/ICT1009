@@ -4,7 +4,7 @@ Documentation for Object Oriented Programming module.
 ## Java Project 
 Simple bullet hell game with OOP concepts
 
-[Java Project Documentation](https://github.com/thomaslwk/ICT1009/blob/main/java_project/README.mdd)
+[Java Project Documentation](https://github.com/thomaslwk/ICT1009/blob/main/java_project/README.md)
 
 ### Java Screenshots 
 * In-game Screen 
