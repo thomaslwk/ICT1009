@@ -7,13 +7,11 @@ Inspired by "thispersondoesnotexist.com". The application visualises the concept
 
 In summary, the project is ideal for use in an educational environment to teach users OOP in a fun and interactive manner.
 
-
 ## How to run: 
 ```
 1. Unzip compiled zip folder
 2. Run 'ict1009_p2.exe' file 
 ```
-
 ## Members 
 * Thomas Lee Wai Kwong
 * Nadzimushsyahar Bin Mohd Halel 
@@ -21,3 +19,11 @@ In summary, the project is ideal for use in an educational environment to teach 
 * Crystal Choo Jia Xian 
 * Aloysius Yeo Wei Jie 
 * Ng Jing Yong 
+
+## References  
+<img width="230" alt="win_appbuild_menu" src="https://user-images.githubusercontent.com/26267783/114817017-d6b51880-9deb-11eb-9b21-d2f837dc17a3.png">
+<img width="353" alt="win_appbuild_normal" src="https://user-images.githubusercontent.com/26267783/114817015-d4eb5500-9deb-11eb-801d-990eaecdba12.png">
+<img width="353" alt="win_appbuild_mutate" src="https://user-images.githubusercontent.com/26267783/114817012-d3219180-9deb-11eb-9172-00ae48312161.png">
+
+
+
