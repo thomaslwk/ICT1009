@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/female/eyes/female_eyes_5.jpg</file>
+        <file>Images/female/eyes/female_eyes_4.jpg</file>
+        <file>Images/female/eyes/female_eyes_3.jpg</file>
+        <file>Images/female/eyes/female_eyes_2.jpg</file>
+        <file>Images/female/eyes/female_eyes_1.jpg</file>
+        <file>Images/female/mouth/female_mouth_5.jpg</file>
+        <file>Images/female/mouth/female_mouth_4.jpg</file>
+        <file>Images/female/mouth/female_mouth_3.jpg</file>
+        <file>Images/female/mouth/female_mouth_2.jpg</file>
+        <file>Images/female/mouth/female_mouth_1.jpg</file>
+        <file>Images/female/nose /female_nose_5.jpg</file>
+        <file>Images/female/nose /female_nose_4.jpg</file>
+        <file>Images/female/nose /female_nose_3.jpg</file>
+        <file>Images/female/nose /female_nose_2.jpg</file>
+        <file>Images/female/nose /female_nose_1.jpg</file>
+        <file>Images/male/nose/male_nose_5.jpg</file>
+        <file>Images/male/nose/male_nose_4.jpg</file>
+        <file>Images/male/nose/male_nose_3.jpg</file>
+        <file>Images/male/nose/male_nose_2.jpg</file>
+        <file>Images/male/nose/male_nose_1.jpg</file>
+        <file>Images/male/mouth/male_mouth_5.jpg</file>
+        <file>Images/male/mouth/male_mouth_4.jpg</file>
+        <file>Images/male/mouth/male_mouth_3.jpg</file>
+        <file>Images/male/mouth/male_mouth_2.jpg</file>
+        <file>Images/male/mouth/male_mouth_1.jpg</file>
+        <file>Images/male/eye/male_eyes_5.jpg</file>
+        <file>Images/male/eye/male_eyes_4.jpg</file>
+        <file>Images/male/eye/male_eyes_3.jpg</file>
+        <file>Images/male/eye/male_eyes_2.jpg</file>
+        <file>Images/male/eye/male_eyes_1.jpg</file>
+        <file>Images/mutation/Mutation_1.JPG</file>
+        <file>Images/mutation/Mutation_2.JPG</file>
+        <file>Images/mutation/Mutation_3.JPG</file>
+        <file>Images/mutation/Mutation_4.JPG</file>
+        <file>Images/mutation/Mutation_5.JPG</file>
+    </qresource>
+</RCC>
