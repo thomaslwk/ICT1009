@@ -10,14 +10,14 @@ In summary, the project is ideal for use in an educational environment to teach 
 
 ## How to run: 
 ```
-1. Unzip compiled windows binary folder
+1. Unzip compiled zip folder
 2. Run 'ict1009_p2.exe' file 
 ```
 
 ## Members 
-* Thomas Lee Wai Kwong - 2000545
-* Nadzimushsyahar Bin Mohd Halel - 2001466 
-* Zuriel Nicholas Ching Fei - 2001555
-* Crystal Choo Jia Xian - 2002342
-* Aloysius Yeo Wei Jie - 2002452
-* Ng Jing Yong - 2002478
+* Thomas Lee Wai Kwong
+* Nadzimushsyahar Bin Mohd Halel 
+* Zuriel Nicholas Ching Fei 
+* Crystal Choo Jia Xian 
+* Aloysius Yeo Wei Jie 
+* Ng Jing Yong 
