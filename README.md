@@ -1,4 +1,4 @@
-# ICT1009
+# ICT1009 - OOP
 Documentation for Object Oriented Programming module. 
 
 ## Java Project 
